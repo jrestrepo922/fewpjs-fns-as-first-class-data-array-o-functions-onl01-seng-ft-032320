@@ -24,6 +24,6 @@ function walkHome(dogName, dogBreed) {
 }
 
 function unleashDog(dogName, dogBreed) {
-  console.log(`Wake ${dogName} the ${dogBreed}`)
-  return `Wake ${dogName} the ${dogBreed}`
+  console.log(`Unleash ${dogName} the ${dogBreed}`)
+  return `Unleash ${dogName} the ${dogBreed}`
 }
